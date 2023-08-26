@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css">
+    <title>Quote Generation</title>
+</head>
+<body>
+    
+     <div class="containerQuote" id="containerQuote">
+        <!--  -->
+        <div id="txtQuote" class="txtQuote" > 
+            <i class="fas fa-quote-left"></i>
+            <span id="quote"> </span>
+        </div>
+        <!--  -->
+        <div class="authorQuote">
+            <span id="author" class="author"></span>
+        </div>
+        <!--  -->
+        <div class="containerBtn">
+            <button class="twitter-button" id="twitter" title="Tweet this !">
+                <i class="fab fa-twitter"></i>
+                <button id="btnOnlineQuotes"> Quotes Online</button>
+                <button id="btnLocalQuotes"> My Quotes</button>
+            </button>
+        </div>
+
+    </div>
+    <!-- loader -->
+    <div class="loader" id="loader"></div>
+
+    <script src="quotes.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>
