@@ -17,7 +17,7 @@ Check out all of the submissions below! Well done everyone!
 
 ### Simple Quiz App - Original: [Github](https://github.com/RupamG/simple-quiz)
 
-- Abdeljallil Aleatoir3 - [Github](https://github.com/AleaToir3/javascript20-projects) | [View Live]()
+- Abdeljallil Aleatoir3 - [Github](https://github.com/AleaToir3/javascript20-projects) | [View Live](https://aleatoir3quotes.netlify.app/)
 - Rupam Gogoi - [Github](https://github.com/RupamG/simple-quiz) | [View Live](https://quick-quiz-app.netlify.app/)
 - Nayana Thapa - [Github](https://github.com/nayana-thapa/quizApp) | [View Live](https://nayana-thapa.github.io/quizApp/)
 - Gautam Jain - [Github](https://github.com/Astrogeek77) | [View Live](https://astrosite77.me/Daily_Coding_Challenge_2021/quiz-app/)
