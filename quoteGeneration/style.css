@@ -50,9 +50,13 @@ button{
     background: #eccf25;
     outline: none;
     box-shadow: 0 0.3rem rgba(212, 145, 44, 0.65);
+    margin: 1rem;
+    user-select: none;
+
 }
 button:hover{
     filter:  brightness(110%);
+    margin: 1rem;
 }
 button:active{
     transform: translate(0,0.3rem);
